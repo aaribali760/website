@@ -1,0 +1,49 @@
+.catexternal {
+    display: grid;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%
+}
+.catinternal{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.catimage {
+    width: 90%;
+    height: 12vw;
+}
+.sliderimage{
+    height: 500px;
+}
+.header{
+    background-color:#ff5500;
+    padding:1px;
+    margin-bottom:10px;
+    text-align:center;
+    color:white;
+    text-transform: uppercase;
+}
+.cattext{
+    text-align: center;
+    font-size: 2vw;
+
+}
+p{
+    font-size:20px;
+    margin:10px;
+}
+.button{
+    border:1px solid black;
+    padding :15px;
+    margin:10px;
+    border-radius: 8px;
+}
+.last{
+    display: grid;
+    grid-template-columns: 30% 70%
+}
+h3{
+    border-left:6px solid black;
+    border-radius:4px;
+    font-size:40px;
+    margin:10px
+}
